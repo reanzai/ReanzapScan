@@ -1,0 +1,109 @@
+{
+    "app_title": "Reanzap - Gelişmiş Ağ Tarayıcı",
+    "menu": {
+        "file": "Dosya",
+        "save_results": "Sonuçları Kaydet",
+        "exit": "Çıkış",
+        "edit": "Düzenle",
+        "settings": "Ayarlar",
+        "help": "Yardım",
+        "about": "Hakkında",
+        "language": "Dil"
+    },
+    "main": {
+        "target": "Hedef:",
+        "target_placeholder": "IP, hostname veya ağ girin (örn. 192.168.1.0/24)",
+        "profile": "Tarama Profili",
+        "command": "Komut",
+        "scan": "Tara",
+        "stop": "Durdur",
+        "scan_history": "Tarama Geçmişi",
+        "ready": "Hazır",
+        "scanning": "Taranıyor...",
+        "scan_stopped": "Tarama durduruldu",
+        "scan_completed": "Tarama tamamlandı"
+    },
+    "tabs": {
+        "nmap_output": "Tarama Çıktısı",
+        "ports_hosts": "Portlar/Hostlar",
+        "topology": "Topoloji",
+        "details": "Detaylar",
+        "vulnerabilities": "Güvenlik Açıkları"
+    },
+    "scan_profiles": {
+        "quick_scan": "Hızlı Tarama",
+        "intense_scan": "Yoğun Tarama",
+        "intense_scan_udp": "Yoğun UDP Taraması",
+        "intense_scan_all_tcp": "Tüm TCP Portları",
+        "intense_scan_no_ping": "Ping Olmadan Tarama",
+        "ping_scan": "Ping Taraması",
+        "regular_scan": "Normal Tarama",
+        "custom": "Özel"
+    },
+    "settings": {
+        "title": "Ayarlar",
+        "general": "Genel Ayarlar",
+        "appearance": "Görünüm",
+        "scanning": "Tarama Ayarları",
+        "language": "Dil",
+        "theme": "Tema",
+        "light": "Açık",
+        "dark": "Koyu",
+        "thread_count": "Thread Sayısı",
+        "timeout": "Zaman Aşımı (saniye)",
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "zenmap": "Zenmap",
+        "vuln_check": "Güvenlik açıklarını kontrol et",
+        "adaptive_timing": "Adaptif zamanlama kullan"
+    },
+    "messages": {
+        "error": "Hata",
+        "warning": "Uyarı",
+        "info": "Bilgi",
+        "no_target": "Lütfen bir hedef girin",
+        "invalid_target": "Geçersiz hedef adresi.",
+        "save_success": "Sonuçlar kaydedildi:",
+        "save_error": "Sonuçlar kaydedilirken hata oluştu",
+        "no_results": "Kaydedilecek tarama sonucu yok",
+        "restart_required": "Değişikliklerin etkili olması için lütfen uygulamayı yeniden başlatın"
+    },
+    "about": {
+        "title": "Reanzap Hakkında",
+        "version": "Sürüm 1.0",
+        "license": "MIT lisansı altında lisanslanmıştır",
+        "description": "Reanzap, hızlı ve kapsamlı ağ keşfi ve güvenlik değerlendirme yetenekleri sunan gelişmiş bir ağ tarama aracıdır."
+    },
+    "scan": {
+        "start_time": "Başlangıç Zamanı",
+        "end_time": "Bitiş Zamanı",
+        "duration": "Süre",
+        "hosts_total": "Toplam Host",
+        "hosts_up": "Aktif Host",
+        "open_ports": "Açık Portlar",
+        "os_detection": "İşletim Sistemi Tespiti",
+        "accuracy": "Doğruluk",
+        "vulnerabilities": "Güvenlik Açıkları",
+        "severity": {
+            "critical": "KRİTİK",
+            "high": "YÜKSEK",
+            "medium": "ORTA",
+            "low": "DÜŞÜK"
+        },
+        "state": {
+            "open": "açık",
+            "closed": "kapalı",
+            "filtered": "filtrelenmiş"
+        }
+    },
+    "profiles": {
+        "fast": "Hızlı Tarama",
+        "intense": "Yoğun Tarama",
+        "all_tcp": "Tüm TCP Portları",
+        "no_ping": "Ping Olmadan Tarama",
+        "ping_only": "Sadece Ping",
+        "normal": "Normal Tarama",
+        "security": "Güvenlik Taraması",
+        "custom": "Özel"
+    }
+} 

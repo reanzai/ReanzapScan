@@ -1,0 +1,77 @@
+{
+    "app_title": "Reanzap - Advanced Network Scanner",
+    "menu": {
+        "file": "File",
+        "save_results": "Save Results",
+        "exit": "Exit",
+        "edit": "Edit",
+        "settings": "Settings",
+        "help": "Help",
+        "about": "About",
+        "language": "Language"
+    },
+    "main": {
+        "target": "Target:",
+        "target_placeholder": "Enter IP, hostname or network (e.g. 192.168.1.0/24)",
+        "profile": "Scan Profile",
+        "command": "Command:",
+        "scan": "Scan",
+        "stop": "Stop",
+        "scan_history": "Scan History",
+        "ready": "Ready",
+        "scanning": "Scanning...",
+        "scan_stopped": "Scan stopped",
+        "scan_completed": "Scan completed"
+    },
+    "tabs": {
+        "nmap_output": "Scan Output",
+        "ports_hosts": "Ports/Hosts",
+        "topology": "Topology",
+        "details": "Details",
+        "vulnerabilities": "Vulnerabilities"
+    },
+    "scan_profiles": {
+        "quick_scan": "Quick Scan",
+        "intense_scan": "Intense Scan",
+        "intense_scan_udp": "Intense UDP Scan",
+        "intense_scan_all_tcp": "All TCP Ports",
+        "intense_scan_no_ping": "Scan without Ping",
+        "ping_scan": "Ping Scan",
+        "regular_scan": "Regular Scan",
+        "custom": "Custom"
+    },
+    "settings": {
+        "title": "Settings",
+        "general": "General Settings",
+        "appearance": "Appearance",
+        "scanning": "Scanning Settings",
+        "language": "Language",
+        "theme": "Theme",
+        "light": "Light",
+        "dark": "Dark",
+        "thread_count": "Thread Count",
+        "timeout": "Timeout (seconds)",
+        "save": "Save",
+        "cancel": "Cancel",
+        "zenmap": "Zenmap",
+        "vuln_check": "Check for vulnerabilities",
+        "adaptive_timing": "Use adaptive timing"
+    },
+    "messages": {
+        "error": "Error",
+        "warning": "Warning",
+        "info": "Information",
+        "no_target": "Please enter a target",
+        "invalid_target": "Invalid target address.",
+        "save_success": "Results saved to",
+        "save_error": "Error saving results",
+        "no_results": "No scan results to save",
+        "restart_required": "Please restart the application for changes to take effect"
+    },
+    "about": {
+        "title": "About Reanzap",
+        "version": "Version 1.0",
+        "license": "Licensed under MIT",
+        "description": "Reanzap is an advanced network scanning tool that provides fast and comprehensive network discovery and security assessment capabilities."
+    }
+} 

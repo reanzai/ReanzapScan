@@ -1,0 +1,90 @@
+{
+  "34.54.45.245": {
+    "status": {
+      "state": "up"
+    },
+    "hostnames": [
+      {
+        "name": "245.45.54.34.bc.googleusercontent.com",
+        "type": "PTR"
+      }
+    ],
+    "tcp": {
+      "21": {
+        "state": "open",
+        "name": "FTP",
+        "version": ""
+      },
+      "8080": {
+        "state": "open",
+        "name": "HTTP-Proxy",
+        "version": ""
+      },
+      "53": {
+        "state": "open",
+        "name": "DNS",
+        "version": ""
+      },
+      "445": {
+        "state": "open",
+        "name": "SMB",
+        "version": ""
+      },
+      "80": {
+        "state": "open",
+        "name": "HTTP",
+        "version": ""
+      },
+      "23": {
+        "state": "open",
+        "name": "Telnet",
+        "version": ""
+      },
+      "25": {
+        "state": "open",
+        "name": "SMTP",
+        "version": ""
+      },
+      "3389": {
+        "state": "open",
+        "name": "RDP",
+        "version": ""
+      },
+      "110": {
+        "state": "open",
+        "name": "POP3",
+        "version": ""
+      },
+      "139": {
+        "state": "open",
+        "name": "NetBIOS",
+        "version": ""
+      },
+      "143": {
+        "state": "open",
+        "name": "IMAP",
+        "version": ""
+      },
+      "3306": {
+        "state": "open",
+        "name": "MySQL",
+        "version": ""
+      },
+      "22": {
+        "state": "open",
+        "name": "SSH",
+        "version": ""
+      },
+      "443": {
+        "state": "open",
+        "name": "HTTPS",
+        "version": ""
+      }
+    },
+    "scan_time": {
+      "start": "2025-03-12 23:38:57",
+      "end": "2025-03-12 23:38:57",
+      "duration": 0.665308
+    }
+  }
+}
