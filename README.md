@@ -32,7 +32,7 @@ Reanzap is an advanced network scanning tool with a modern graphical interface. 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ReanzapScan.git
+git clone https://github.com/reanzai/ReanzapScan.git
 cd ReanzapScan
 ```
 
@@ -104,7 +104,7 @@ Reanzap, modern grafiksel arayüze sahip gelişmiş bir ağ tarama aracıdır. P
 
 1. Depoyu klonlayın:
 ```bash
-git clone https://github.com/yourusername/ReanzapScan.git
+git clone https://github.com/reanzai/ReanzapScan.git
 cd ReanzapScan
 ```
 
